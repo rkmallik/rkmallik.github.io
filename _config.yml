@@ -1,0 +1,33 @@
+# Site settings
+name: Ronak Mallik
+description: "Pretty Swell Dude"
+url: "http://rkmallik.com"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+twitter_username: ronak
+linkedin_username: rkmallik
+lastfm_username: bobathia
+github_username:  rkmallik
+facebook_username: rkmallik
+instagram_username:  rkmallik
+flickr_username: ronakm
+email: ronak@rkmallik.com
+
+
+
+avatar: yes
+avatar_img_path: "https://pbs.twimg.com/profile_images/694709530614038528/WqQJLrkg_400x400.jpg"
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "https://pbs.twimg.com/profile_banners/802354/1445276028"
+#front_img_path: "https://external.url/image.jpg"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
