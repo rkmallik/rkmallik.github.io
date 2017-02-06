@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rkmallik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rkmallik.com
+  * I am rkmallik (https://keybase.io/rkmallik) on keybase.
+  * I have a public key with fingerprint 2889 E952 E81A 35B2 66FB  150B FF38 AF83 6B3D C885
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011c6cb6899dc213251b8998255d5f72558e667feadd3da99a520157287f2a69540a",
+            "fingerprint": "2889e952e81a35b266fb150bff38af836b3dc885",
+            "host": "keybase.io",
+            "key_id": "ff38af836b3dc885",
+            "kid": "01011c6cb6899dc213251b8998255d5f72558e667feadd3da99a520157287f2a69540a",
+            "uid": "96f9844d394f5bc4e6aa32a7fae68319",
+            "username": "rkmallik"
+        },
+        "service": {
+            "hostname": "rkmallik.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486400506,
+    "expire_in": 157680000,
+    "prev": "f23eb44a11bea1576f8ef2d70148546f01dd0e638c564980ff32277ae8590a01",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBRRGF7Notake1BE1ISYsS1zZuacObOuRDe7EEJ2T2M5M3PGpr3M
+uju7tl6wiCTSlBBLK+sh6F5EFNFDqN0Ie5ByIUuULhREURAU1RJ0Ruoleuy8/Of8
+//d95/t//nt5Y1zurLfNqcGr38wtWY96jyRcWzsu/qjlVEtPcb5aLkhHAw3pNG4H
+gqbO+Tge8ABoSFMRVhRdE4AoQKCyOxYg1KEhs4ApQrJBia6LOlEUAgUeQFnAsiEQ
+pECJJ5yHM8xIJY1FY2bEZrICxgpVoEAxICJUBYQMFUBeNQwREwOLSBV1DWPIiDut
+uMNg5lQSp17TYjn2CIza+wf+P/tOjMopyFCwJOmiIhlQ1SSKCBEFIhuEIiwCxQHG
+aSxCwpShY8EwCYXMIFfv4Vg2aWrUGazTyV8Ir2aFGTcas2xLs0KsstO2oz6HaKei
+DrKaqoHfGgHVjOhsjIyQpLG4aUU4H2BIzTYdUSBhJPE85JGHo7ujZowGTAcBZYR5
+dpxvaNIZmiBSVZIIAColTtnA1BB0mWcKUEIGD3Sdp0jEGkSSgnk2ZEGQZUIxVHjC
+A87pqipicT7IbJJKJhk3KyPETsQoV3+npyLHleV2jRub7ayXyz1h8p+lWx4a73ro
+NT5+WbTGv6o5ffHVrMzwjjl9K3dNf1z6cVVOafH6ZtmzKX/Phskvq1+ceQQXcuc6
+n29sC5ROyfbfb0Hld1d7G81OceTMu5KJI+kFZweqLs88VH8979nUm5mpy9I1bvqq
+oKNmDfiUtg8XvY9sGhzomjRtTuttz8je64m+ZaBwwvbNX9fmlR97kyxOZoQPnZ+b
+1AcFyQOFBb3+pfr3dO/4bT+G4rdyexa3lkSvdb59UnfqwevGiqNj989b3t3fvqJo
+flnRzxsf6tqH2hrOT7vQ0OGfHT64rnB6WdPJ7HP7jATfvaQlld8VP30lN3BZ8Q/2
+z/XtXfD0TdOWS8OL751wtczIpI7/AkLsPak=
+=G+iU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rkmallik
+
+==================================================================
